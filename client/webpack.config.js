@@ -40,9 +40,8 @@ module.exports = () => {
       description: 'Take notes with Javascript syntax highlighting!',
       background_color: '#225ca3',
       theme_color: '#225ca3',
-      id: '/client/dist/',
-      start_url: './',
-      publicPath: './',
+      start_url: '/',
+      publicPath: '/',
       icons: [
         {
           src: path.resolve('src/images/logo.png'),
