@@ -31,7 +31,7 @@ This application can be started using 'npm start start:dev'
 My other applications can be viewed at my github repository located at https://github.com/notchibby.
 
 ## Deployment
-
+https://chibbes-text-editor-pwa.herokuapp.com/
 
 ## License
 Licenced under the [GNU GPLv3](https://www.gnu.org/licenses/agpl-3.0) license.
