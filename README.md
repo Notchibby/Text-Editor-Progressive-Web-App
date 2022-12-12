@@ -18,9 +18,11 @@ This application can be started using 'npm start start:dev'
 
 
 ## Screenshots
-![screenshot-of-the-application-to-get-allthoughts](https://github.com/Notchibby/Social-network-backend/blob/main/assets/images/allthoughts.png)
+![screenshot-of-app-startup](https://github.com/Notchibby/Text-Editor-Progressive-Web-App/blob/main/assets/images/pwa-startup.png)
 
-![screenshot-of-the-application-to-get-singleuser](https://github.com/Notchibby/Social-network-backend/blob/main/assets/images/singleuser.png)
+![screenshot-of-installed-app](https://github.com/Notchibby/Text-Editor-Progressive-Web-App/blob/main/assets/images/installed-pwa.png)
+
+![screenshot-of-app-database](https://github.com/Notchibby/Text-Editor-Progressive-Web-App/blob/main/assets/images/pwa-database.png)
 
 
 
